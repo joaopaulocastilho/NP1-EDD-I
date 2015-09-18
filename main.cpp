@@ -1,6 +1,6 @@
 /*
 Igor Lemos Vicente - igor94@gmail.com
-João Paulo Castilho - 
+João Paulo Castilho - joao.pkc@gmail.com 
  */
 #include <stdio.h>
 #include <math.h>
